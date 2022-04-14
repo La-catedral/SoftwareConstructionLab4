@@ -1,0 +1,7 @@
+[ERROR] 2020-06-07 16:37:33 method:app.CourseCalendarApp.main(CourseCalendarApp.java:143)
+gender must be "male" or "female"  被捕获 计划项ID:none 操作：a
+exception.otherClientException.IllegalInputException: gender must be "male" or "female" 
+	at resource.Teacher.<init>(Teacher.java:35)
+	at app.CourseCalendarApp.main(CourseCalendarApp.java:136)
+[INFO ] 2020-06-07 17:05:55 method:app.CourseCalendarApp.main(CourseCalendarApp.java:139)
+ 被捕获 计划项ID:none 操作：a
